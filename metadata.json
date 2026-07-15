@@ -1,0 +1,6 @@
+{
+  "name": "Atlas Trader",
+  "description": "High-frequency institutional liquidity sweep and strategy tracking engine powered by Gemini AI co-pilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

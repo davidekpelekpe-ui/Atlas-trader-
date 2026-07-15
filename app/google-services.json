@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1036250111327",
+    "project_id": "atlas-trader-e2ef6",
+    "storage_bucket": "atlas-trader-e2ef6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036250111327:android:c52e28ccf4053b10d2aaea",
+        "android_client_info": {
+          "package_name": "com.dicesky.atlastrader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy-MepcZsoLyAzjZFYv4XkI-7u9t99ee4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036250111327:android:c52e28ccf4053b10d2aaea",
+        "android_client_info": {
+          "package_name": "com.aistudio.atlastrader.xtrad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy-MepcZsoLyAzjZFYv4XkI-7u9t99ee4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
